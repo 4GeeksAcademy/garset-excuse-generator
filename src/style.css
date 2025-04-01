@@ -1,5 +1,14 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
+.excuse-box {
+    font-size: 1.25rem;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: 5px solid #0d6efd;
+}
 
-body{
-    background: white;
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
 }
